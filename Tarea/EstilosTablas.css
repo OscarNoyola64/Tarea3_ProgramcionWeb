@@ -1,0 +1,96 @@
+
+body{
+
+}
+.papeltapiz{
+
+    background-color:#63F8C9;
+}
+
+
+.fondoazulm{
+
+    background-color:#0082F9;
+}
+
+.fondorojo{
+    background-color:#BD1414;
+}
+
+.fondoverde{
+    background-color:#16FF00;
+}
+
+.fondoblanco{
+    background-color: white;
+}
+.fondorosa{
+    background-color: #FF4696;
+}
+
+.fondoamarillo{
+    background-color:#FFD200;
+}
+.fondonaranja{
+    background-color:#FF4F00;
+}
+
+
+
+.letrablanca{
+
+    color:white;
+}
+
+.letranegra{
+
+    color:black;
+}
+
+
+
+
+
+.tamañoletra{
+
+    font-size:2em;
+
+}
+
+
+.bordevino{
+
+     border:10px outset #7F0000;
+}
+
+
+.bordenegro
+{
+    border:1px outset #BDBDBD;
+}
+
+
+
+.tamañorecuadro{
+    width:100%;
+    height:10%;
+
+    }
+
+.tamañorecuadro2{
+    width:100%;
+    height:5%;
+
+    }
+
+.margen{
+margin:  -5px;
+padding: -5px;
+
+}
+
+.margen2{
+margin:  -5px;
+padding: -5px;
+
+}
